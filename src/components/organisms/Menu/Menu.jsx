@@ -45,7 +45,7 @@ const Menu = ({open, setOpen, setSearchTerm, searchTerm}) => {
                         <span className={styles["icon-name"]}>{icon.name[language]}</span>
                     </Link>
                 ))}
-                <div className={styles["extra-menu-items"]}>
+                <div className={styles["extra-menu-item"]}>
 
                         <div onClick={(e) => {
                             if (!open) {
@@ -56,12 +56,7 @@ const Menu = ({open, setOpen, setSearchTerm, searchTerm}) => {
                         }}}>
                             <LanguageSelector />
                         </div>
-                        <div>
-                            Setting
-                        </div>
-                        <div>
-                            Exit
-                        </div>
+                        
                 </div>
             </div>
     </div>
