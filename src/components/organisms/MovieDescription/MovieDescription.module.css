@@ -1,0 +1,33 @@
+.movie-description-container{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+}
+
+.movie-details{
+    display: flex;
+    color: white;
+    justify-content: flex-start;
+    gap: 30px;
+    margin: 10px;
+}
+.movie-description{
+    margin: 10px;
+    color: white;
+    text-align: left;
+}
+.title{
+    margin: 10px;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.4rem;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
+}

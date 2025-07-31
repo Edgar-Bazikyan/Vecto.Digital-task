@@ -1,0 +1,12 @@
+.search-input{
+    padding: 10px;
+    border-radius: 6px;
+    width: 50vw;
+    margin-bottom: 20px;
+    background-color: rgb(189, 189, 189);
+    color: black;
+    font-size: 1.1rem;
+}
+.search-bar{
+    margin-left: 7vw;
+}

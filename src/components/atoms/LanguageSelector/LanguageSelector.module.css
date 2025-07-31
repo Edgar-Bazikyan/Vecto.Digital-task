@@ -1,0 +1,38 @@
+.lang-selector {
+  position: relative;
+  font-family: Arial, sans-serif;
+}
+
+.lang-button {
+  font-size: 14px;
+  border: none;
+  background-color: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+
+.lang-dropdown {
+  position: absolute;
+  top: -30px;
+  left: 80px;
+  width: 150px;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.lang-option {
+  width: 100%;
+  padding: 10px;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.lang-option:hover {
+  background-color: #f7f7f7;
+}

@@ -1,0 +1,18 @@
+.button{
+    border-radius:15px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+    font-size: 1.2rem;
+}
+
+.more-info{
+    color: white;
+    background-color: blue;
+}
+
+.play{
+    color: black ;
+    background-color: rgb(236, 233, 226);
+}

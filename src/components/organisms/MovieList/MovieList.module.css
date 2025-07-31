@@ -1,0 +1,36 @@
+.movie-list {
+    width:93vw;
+    height:fit-content;
+    padding-bottom: 20px ;
+    display: flex;
+    overflow-x: hidden;
+
+}
+.movie-list-container{
+    display: flex;
+    scroll-snap-type: x mandatory;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 7vw;
+
+}
+.arrow {
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.058);
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.title {
+    font-size: 1.7rem;
+    margin: 70px 80px 5px 100px;
+}
+.no-movies{
+    font-size: 1.5rem;
+     margin: 20px 80px 10px 20px;
+}

@@ -1,0 +1,10 @@
+.featured-image-container{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 7vw;
+}
+.featured-image{
+    width: 93vw ;
+    height: 85vh;
+}

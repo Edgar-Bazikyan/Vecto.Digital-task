@@ -1,0 +1,15 @@
+.movie-image{
+    width: calc(93vw / 8 - 50px);
+    height: fit-content;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
+}
+.movie-item {
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.movie-link{
+    text-decoration: none;
+    color: black;
+}

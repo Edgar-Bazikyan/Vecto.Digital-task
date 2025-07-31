@@ -1,0 +1,325 @@
+{
+	"Featured": {
+		"Id": "1",
+		"Title": "The Irishman",
+		"CoverImage": "FeaturedCoverImage.png",
+		"TitleImage": "FeaturedTitleImage.png",
+		"Date": "2021-10-24T12:16:50.894556",
+		"ReleaseYear": "2021",
+		"MpaRating": "18+",
+		"Category": "Movie",
+		"Duration": "6000",
+		"Description": {
+			"arm": "Ֆրենկ Շիրանի կյանքի նկարազարդում՝ Երկրորդ համաշխարհային պատերազմի վետերանից մինչև Բուֆալինո հանցավոր ընտանիքի մարդասպան և նրա կողմից իր մտերիմ ընկեր Ջիմի Հոֆֆայի ենթադրյալ սպանությունը։",
+			"eng": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa."
+			}
+	},
+	"TendingNow": [
+		{
+			"Id": "1",
+			"Title": "Squid Game",
+			"CoverImage": "https_specials-1.png",
+			"TitleImage": "Squid-Game-Logo.png",
+			"FullScreenImage": "Squid-Game-2-Featured-Image-scaled.jpg",
+			"Date": "2021-10-24T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "2000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description":{
+				"arm" : "Հարյուրավոր ֆինանսական դժվարությունների մեջ գտնվող խաղացողներ ընդունում են մանկական խաղերում մրցելու տարօրինակ հրավերը: Նրանց սպասվում է գայթակղիչ մրցանակ, բայց մահացու բարձր խաղադրույքներով:",
+			    "eng" :"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. A tempting prize awaits, but with deadly high stakes."
+			}
+		},
+		{
+			"Id": "2",
+			"Title": "San Andreas",
+			"CoverImage": "https_specials-2.png",
+			"TitleImage": "340-3408106_filesanandreasmovie-logosvg-wikimedia-commons-san-andreas-movie-logo.png",
+			"FullScreenImage": "san_andreas.jpg",
+			"Date": "2021-10-12T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2300",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Կալիֆոռնիայում տեղի ունեցած հզոր երկրաշարժից հետո փրկարարական ուղղաթիռի օդաչուն վտանգավոր ճանապարհորդություն է կատարում նախկին կնոջ հետ՝ դստերը փրկելու համար։",
+				"eng": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter."
+			}
+		},
+		{
+			"Id": "3",
+			"Title": "The Good Doctor",
+			"CoverImage": "https_specials-3.png",
+			"TitleImage": "The_Good_Doctor_(American_TV_series)_logo.png",
+			"FullScreenImage" : "the-good-doctor-surgical-tools-cspvy7448lvq8qx6.jpg",
+			"Date": "2021-10-11T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "6000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Շոն Մերֆին, աուտիզմով և Սավանտի համախտանիշով երիտասարդ վիրաբույժ, աշխատանքի է ընդունվում հեղինակավոր հիվանդանոցի վիրաբուժական բաժանմունք:",
+				"eng": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital."
+			}
+		},
+		{
+			"Id": "4",
+			"Title": "Red Notice",
+			"CoverImage": "https_specials-4.png",
+			"TitleImage": "Red_Notice_logo.png",
+			"FullScreenImage": "1321315.jpeg",
+			"Date": "2021-10-10T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "4000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Ինտերպոլի գործակալը հաջողությամբ գտնում է աշխարհի ամենից շատ հետախուզվող արվեստի գործերի գողին՝ մրցակից գողի օգնությամբ։ Սակայն ամեն ինչ այնպես չէ, ինչպես թվում է, քանի որ սկսվում է մի շարք խաբեություններ։",
+				"eng": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues."
+			}
+		},
+		{
+			"Id": "5",
+			"Title": "Sherlock Holmes",
+			"CoverImage": "https_specials-7.png",
+			"TitleImage": "35463-7-sherlock-clipart.png",
+			"FullScreenImage" : "1585653092-069c50d32152399ae9f0d81ca5df32e35a7695c9.jpg",
+			"Date": "2021-11-22T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "4500",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Քոնան Դոյլի պաշտամունքային հետախույզի յուրօրինակ մեկնաբանությունը նրան ներկայացնում է որպես ժամանակակից Լոնդոնի բարձրակարգ սոցիոպատ։ Հետաքննություններում նրան օգնում է Աֆղանստանի պատերազմի վետերան Ջոն Ուոթսոնը, որին Հոլմսին ծանոթացնում է ընդհանուր ծանոթը։",
+				"eng": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a high-functioning sociopath in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance."
+			}
+		},
+		{
+			"Id": "6",
+			"Title": "San Andreas",
+			"CoverImage": "https_specials-2.png",
+			"TitleImage": "340-3408106_filesanandreasmovie-logosvg-wikimedia-commons-san-andreas-movie-logo.png",
+			"FullScreenImage": "san_andreas.jpg",
+			"Date": "2021-10-12T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2300",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Կալիֆոռնիայում տեղի ունեցած հզոր երկրաշարժից հետո փրկարարական ուղղաթիռի օդաչուն վտանգավոր ճանապարհորդություն է կատարում նախկին կնոջ հետ՝ դստերը փրկելու համար։",
+				"eng": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter."
+			}
+		},
+		{
+			"Id": "7",
+			"Title": "Sherlock Holmes",
+			"CoverImage": "https_specials-7.png",
+			"TitleImage": "35463-7-sherlock-clipart.png",
+			"FullScreenImage" : "1585653092-069c50d32152399ae9f0d81ca5df32e35a7695c9.jpg",
+			"Date": "2021-11-22T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "4500",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Քոնան Դոյլի պաշտամունքային հետախույզի յուրօրինակ մեկնաբանությունը նրան ներկայացնում է որպես ժամանակակից Լոնդոնի բարձրակարգ սոցիոպատ։ Հետաքննություններում նրան օգնում է Աֆղանստանի պատերազմի վետերան Ջոն Ուոթսոնը, որին Հոլմսին ծանոթացնում է ընդհանուր ծանոթը։",
+				"eng": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a high-functioning sociopath in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance."
+			}
+		},
+		{
+			"Id": "8",
+			"Title": "Kate",
+			"CoverImage": "https_specials-8.png",
+			"TitleImage": "AAAABYXHsUh9DVnZz8apKCJjAhS3_9ogMfiazUs7YyBDvtcgU3U4nGesVUVCz4F1IOP61vjpgICz3rRFYZY2QAMI5q-NPH5jxb4MKA.png",
+			"FullScreenImage": "MV5BMGJiM2U4NzEtMmEyMC00MDlkLWJlYmEtZDgxYzY4ZmI3MzdlXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+			"Date": "2021-07-14T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Յակուձա կլանին թիրախ դարձնելու համար հոգնած մարդասպանը 24 ժամ ունի՝ պարզելու, թե ով է իրեն թունավորել և վրեժ լուծելու, նախքան նրա մահը։",
+				"eng": "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies."
+			}
+		},
+		{
+			"Id": "9",
+			"Title": "Squid Game",
+			"CoverImage": "https_specials-1.png",
+			"TitleImage": "Squid-Game-Logo.png",
+			"FullScreenImage": "Squid-Game-2-Featured-Image-scaled.jpg",
+			"Date": "2021-10-24T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "2000",
+			"VideoUrl": "https://www.youtube.com/watch?v=oqxAJKy0ii4",
+			"Description":{
+				"arm" : "Հարյուրավոր ֆինանսական դժվարությունների մեջ գտնվող խաղացողներ ընդունում են մանկական խաղերում մրցելու տարօրինակ հրավերը: Նրանց սպասվում է գայթակղիչ մրցանակ, բայց մահացու բարձր խաղադրույքներով:",
+			    "eng" :"Hundreds of cash-strapped players accept a strange invitation to compete in children's games. A tempting prize awaits, but with deadly high stakes."
+			}
+		},
+		{
+			"Id": "10",
+			"Title": "San Andreas",
+			"CoverImage": "https_specials-2.png",
+			"TitleImage": "340-3408106_filesanandreasmovie-logosvg-wikimedia-commons-san-andreas-movie-logo.png",
+			"FullScreenImage": "san_andreas.jpg",
+			"Date": "2021-10-12T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2300",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Կալիֆոռնիայում տեղի ունեցած հզոր երկրաշարժից հետո փրկարարական ուղղաթիռի օդաչուն վտանգավոր ճանապարհորդություն է կատարում նախկին կնոջ հետ՝ դստերը փրկելու համար։",
+				"eng": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter."
+			}
+		},
+		{
+			"Id": "11",
+			"Title": "The Good Doctor",
+			"CoverImage": "https_specials-3.png",
+			"TitleImage": "The_Good_Doctor_(American_TV_series)_logo.png",
+			"FullScreenImage" : "the-good-doctor-surgical-tools-cspvy7448lvq8qx6.jpg",
+			"Date": "2021-10-11T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "6000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Շոն Մերֆին, աուտիզմով և Սավանտի համախտանիշով երիտասարդ վիրաբույժ, աշխատանքի է ընդունվում հեղինակավոր հիվանդանոցի վիրաբուժական բաժանմունք:",
+				"eng": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital."
+			}
+		},
+		{
+			"Id": "12",
+			"Title": "Red Notice",
+			"CoverImage": "https_specials-4.png",
+			"TitleImage": "Red_Notice_logo.png",
+			"FullScreenImage": "1321315.jpeg",
+			"Date": "2021-10-10T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "4000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Ինտերպոլի գործակալը հաջողությամբ գտնում է աշխարհի ամենից շատ հետախուզվող արվեստի գործերի գողին՝ մրցակից գողի օգնությամբ։ Սակայն ամեն ինչ այնպես չէ, ինչպես թվում է, քանի որ սկսվում է մի շարք խաբեություններ։",
+				"eng": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues."
+			}
+		},
+		{
+			"Id": "13",
+			"Title": "Kate",
+			"CoverImage": "https_specials-8.png",
+			"TitleImage": "AAAABYXHsUh9DVnZz8apKCJjAhS3_9ogMfiazUs7YyBDvtcgU3U4nGesVUVCz4F1IOP61vjpgICz3rRFYZY2QAMI5q-NPH5jxb4MKA.png",
+			"FullScreenImage": "MV5BMGJiM2U4NzEtMmEyMC00MDlkLWJlYmEtZDgxYzY4ZmI3MzdlXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+			"Date": "2021-07-14T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Յակուձա կլանին թիրախ դարձնելու համար հոգնած մարդասպանը 24 ժամ ունի՝ պարզելու, թե ով է իրեն թունավորել և վրեժ լուծելու, նախքան նրա մահը։",
+				"eng": "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies."
+			}
+		},
+		{
+			"Id": "14",
+			"Title": "The Good Doctor",
+			"CoverImage": "https_specials-3.png",
+			"TitleImage": "The_Good_Doctor_(American_TV_series)_logo.png",
+			"FullScreenImage" : "the-good-doctor-surgical-tools-cspvy7448lvq8qx6.jpg",
+			"Date": "2021-10-11T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "6000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Շոն Մերֆին, աուտիզմով և Սավանտի համախտանիշով երիտասարդ վիրաբույժ, աշխատանքի է ընդունվում հեղինակավոր հիվանդանոցի վիրաբուժական բաժանմունք:",
+				"eng": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital."
+			}
+		},
+		{
+			"Id": "15",
+			"Title": "Sherlock Holmes",
+			"CoverImage": "https_specials-7.png",
+			"TitleImage": "35463-7-sherlock-clipart.png",
+			"FullScreenImage" : "1585653092-069c50d32152399ae9f0d81ca5df32e35a7695c9.jpg",
+			"Date": "2021-11-22T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "4500",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Քոնան Դոյլի պաշտամունքային հետախույզի յուրօրինակ մեկնաբանությունը նրան ներկայացնում է որպես ժամանակակից Լոնդոնի բարձրակարգ սոցիոպատ։ Հետաքննություններում նրան օգնում է Աֆղանստանի պատերազմի վետերան Ջոն Ուոթսոնը, որին Հոլմսին ծանոթացնում է ընդհանուր ծանոթը։",
+				"eng": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a high-functioning sociopath in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance."
+			}
+		},
+		{
+			"Id": "16",
+			"Title": "Kate",
+			"CoverImage": "https_specials-8.png",
+			"TitleImage": "AAAABYXHsUh9DVnZz8apKCJjAhS3_9ogMfiazUs7YyBDvtcgU3U4nGesVUVCz4F1IOP61vjpgICz3rRFYZY2QAMI5q-NPH5jxb4MKA.png",
+			"FullScreenImage": "MV5BMGJiM2U4NzEtMmEyMC00MDlkLWJlYmEtZDgxYzY4ZmI3MzdlXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+			"Date": "2021-07-14T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Յակուձա կլանին թիրախ դարձնելու համար հոգնած մարդասպանը 24 ժամ ունի՝ պարզելու, թե ով է իրեն թունավորել և վրեժ լուծելու, նախքան նրա մահը։",
+				"eng": "A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies."
+			}
+		},
+		{
+			"Id": "17",
+			"Title": "The Good Doctor",
+			"CoverImage": "https_specials-3.png",
+			"TitleImage": "The_Good_Doctor_(American_TV_series)_logo.png",
+			"FullScreenImage" : "the-good-doctor-surgical-tools-cspvy7448lvq8qx6.jpg",
+			"Date": "2021-10-11T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "Movie",
+			"Duration": "6000",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Շոն Մերֆին, աուտիզմով և Սավանտի համախտանիշով երիտասարդ վիրաբույժ, աշխատանքի է ընդունվում հեղինակավոր հիվանդանոցի վիրաբուժական բաժանմունք:",
+				"eng": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital."
+			}
+		},
+		{
+			"Id": "18",
+			"Title": "San Andreas",
+			"CoverImage": "https_specials-2.png",
+			"TitleImage": "340-3408106_filesanandreasmovie-logosvg-wikimedia-commons-san-andreas-movie-logo.png",
+			"FullScreenImage": "san_andreas.jpg",
+			"Date": "2021-10-12T12:16:50.894556",
+			"ReleaseYear": "2021",
+			"MpaRating": "18+",
+			"Category": "TV Show",
+			"Duration": "2300",
+			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"Description": {
+				"arm": "Կալիֆոռնիայում տեղի ունեցած հզոր երկրաշարժից հետո փրկարարական ուղղաթիռի օդաչուն վտանգավոր ճանապարհորդություն է կատարում նախկին կնոջ հետ՝ դստերը փրկելու համար։",
+				"eng": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter."
+			}
+		}
+	]
+}
